@@ -1,0 +1,153 @@
+Script started on 2023-07-26 21:02:43+00:00 [TERM="xterm-256color" TTY="/dev/pts/9" COLUMNS="87" LINES="15"]
+[?2004h]0;jkim@jkim-vm-u22: ~/COMP 4320 Project[01;32mjkim@jkim-vm-u22[00m:[01;34m~/COMP 4320 Project[00m$ ./client 
+[?2004lReceived packet with sequence number 0 and first 64 bytes of data: Intro to Networks: Tears Intro to Networks: Tears Intro to Netwo
+Received packet with sequence number 1 and first 64 bytes of data: tworks: Tears Intro to Networks: Tears Intro to Networks: Tears 
+Received packet with sequence number 2 and first 64 bytes of data: rs Intro to Networks: Tears Intro to Networks: Tears Intro to Ne
+Received packet with sequence number 3 and first 64 bytes of data:  Networks: Tears Intro to Networks: Tears Intro to Networks: Tea
+Received packet with sequence number 4 and first 64 bytes of data: Tears Intro to Networks: Tears Intro to Networks: Tears Intro to
+Received packet with sequence number 5 and first 64 bytes of data:  to Networks: Tears Intro to Networks: Tears Intro to Networks: 
+Received packet with sequence number 6 and first 64 bytes of data: s: Tears Intro to Networks: Tears Intro to Networks: Tears Intro
+Received packet with sequence number 7 and first 64 bytes of data: tro to Networks: Tears Intro to Networks: Tears Intro to Network
+Received packet with sequence number 8 and first 64 bytes of data: orks: Tears Intro to Networks: Tears Intro to Networks: Tears In
+Received packet with sequence number 9 and first 64 bytes of data:  Intro to Networks: Tears Intro to Networks: Tears Intro to Netw
+Received packet with sequence number 10 and first 64 bytes of data: etworks: Tears Intro to Networks: Tears Intro to Networks: Tears
+Received packet with sequence number 11 and first 64 bytes of data: ars Intro to Networks: Tears Intro to Networks: Tears Intro to N
+Received packet with sequence number 12 and first 64 bytes of data: o Networks: Tears Intro to Networks: Tears Intro to Networks: Te
+Received packet with sequence number 13 and first 64 bytes of data:  Tears Intro to Networks: Tears Intro to Networks: Tears Intro t
+Received packet with sequence number 14 and first 64 bytes of data: o to Networks: Tears Intro to Networks: Tears Intro to Networks:
+Received packet with sequence number 15 and first 64 bytes of data: ks: Tears Intro to Networks: Tears Intro to Networks: Tears Intr
+Received packet with sequence number 16 and first 64 bytes of data: ntro to Networks: Tears Intro to Networks: Tears Intro to Networ
+Received packet with sequence number 17 and first 64 bytes of data: works: Tears Intro to Networks: Tears Intro to Networks: Tears I
+Received packet with sequence number 18 and first 64 bytes of data: s Intro to Networks: Tears Intro to Networks: Tears Intro to Net
+Received packet with sequence number 19 and first 64 bytes of data: Networks: Tears Intro to Networks: Tears Intro to Networks: Tear
+Received packet with sequence number 20 and first 64 bytes of data: ears Intro to Networks: Tears Intro to Networks: Tears Intro to 
+Received packet with sequence number 21 and first 64 bytes of data: to Networks: Tears Intro to Networks: Tears Intro to Networks: T
+Received packet with sequence number 22 and first 64 bytes of data: : Tears Intro to Networks: Tears Intro to Networks: Tears Intro 
+Received packet with sequence number 23 and first 64 bytes of data: ro to Networks: Tears Intro to Networks: Tears Intro to Networks
+Received packet with sequence number 24 and first 64 bytes of data: rks: Tears Intro to Networks: Tears Intro to Networks: Tears Int
+Received packet with sequence number 25 and first 64 bytes of data: Intro to Networks: Tears Intro to Networks: Tears Intro to Netwo
+Received packet with sequence number 26 and first 64 bytes of data: tworks: Tears Intro to Networks: Tears Intro to Networks: Tears 
+Received packet with sequence number 27 and first 64 bytes of data: rs Intro to Networks: Tears Intro to Networks: Tears Intro to Ne
+Received packet with sequence number 28 and first 64 bytes of data:  Networks: Tears Intro to Networks: Tears Intro to Networks: Tea
+Received packet with sequence number 29 and first 64 bytes of data: Tears Intro to Networks: Tears Intro to Networks: Tears Intro to
+Received packet with sequence number 30 and first 64 bytes of data:  to Networks: Tears Intro to Networks: Tears Intro to Networks: 
+Received packet with sequence number 31 and first 64 bytes of data: s: Tears Intro to Networks: Tears Intro to Networks: Tears Intro
+Received packet with sequence number 32 and first 64 bytes of data: tro to Networks: Tears Intro to Networks: Tears Intro to Network
+Received packet with sequence number 33 and first 64 bytes of data: orks: Tears Intro to Networks: Tears Intro to Networks: Tears In
+Received packet with sequence number 34 and first 64 bytes of data:  Intro to Networks: Tears Intro to Networks: Tears Intro to Netw
+Received packet with sequence number 35 and first 64 bytes of data: etworks: Tears Intro to Networks: Tears Intro to Networks: Tears
+Received packet with sequence number 36 and first 64 bytes of data: ars Intro to Networks: Tears Intro to Networks: Tears Intro to N
+Received packet with sequence number 37 and first 64 bytes of data: o Networks: Tears Intro to Networks: Tears Intro to Networks: Te
+Received packet with sequence number 38 and first 64 bytes of data:  Tears Intro to Networks: Tears Intro to Networks: Tears Intro t
+Received packet with sequence number 39 and first 64 bytes of data: o to Networks: Tears Intro to Networks: Tears Intro to Networks:
+Received packet with sequence number 40 and first 64 bytes of data: ks: Tears Intro to Networks: Tears Intro to Networks: Tears Intr
+Received packet with sequence number 41 and first 64 bytes of data: ntro to Networks: Tears Intro to Networks: Tears Intro to Networ
+Received packet with sequence number 42 and first 64 bytes of data: works: Tears Intro to Networks: Tears Intro to Networks: Tears I
+Received packet with sequence number 43 and first 64 bytes of data: s Intro to Networks: Tears Intro to Networks: Tears Intro to Net
+Received packet with sequence number 44 and first 64 bytes of data: Networks: Tears Intro to Networks: Tears Intro to Networks: Tear
+Received packet with sequence number 45 and first 64 bytes of data: ears Intro to Networks: Tears Intro to Networks: Tears Intro to 
+Received packet with sequence number 46 and first 64 bytes of data: to Networks: Tears Intro to Networks: Tears Intro to Networks: T
+Received packet with sequence number 47 and first 64 bytes of data: : Tears Intro to Networks: Tears Intro to Networks: Tears Intro 
+Received packet with sequence number 48 and first 64 bytes of data: ro to Networks: Tears Intro to Networks: Tears Intro to Networks
+Received packet with sequence number 49 and first 64 bytes of data: rks: Tears Intro to Networks: Tears Intro to Networks: Tears Int
+Received packet with sequence number 50 and first 64 bytes of data: Intro to Networks: Tears Intro to Networks: Tears Intro to Netwo
+Received packet with sequence number 51 and first 64 bytes of data: tworks: Tears Intro to Networks: Tears Intro to Networks: Tears 
+Received packet with sequence number 52 and first 64 bytes of data: rs Intro to Networks: Tears Intro to Networks: Tears Intro to Ne
+Received packet with sequence number 53 and first 64 bytes of data:  Networks: Tears Intro to Networks: Tears Intro to Networks: Tea
+Received packet with sequence number 54 and first 64 bytes of data: Tears Intro to Networks: Tears Intro to Networks: Tears Intro to
+Received packet with sequence number 55 and first 64 bytes of data:  to Networks: Tears Intro to Networks: Tears Intro to Networks: 
+Received packet with sequence number 56 and first 64 bytes of data: s: Tears Intro to Networks: Tears Intro to Networks: Tears Intro
+Received packet with sequence number 57 and first 64 bytes of data: tro to Networks: Tears Intro to Networks: Tears Intro to Network
+Received packet with sequence number 58 and first 64 bytes of data: orks: Tears Intro to Networks: Tears Intro to Networks: Tears In
+Received packet with sequence number 59 and first 64 bytes of data:  Intro to Networks: Tears Intro to Networks: Tears Intro to Netw
+Received packet with sequence number 60 and first 64 bytes of data: etworks: Tears Intro to Networks: Tears Intro to Networks: Tears
+Received packet with sequence number 61 and first 64 bytes of data: ars Intro to Networks: Tears Intro to Networks: Tears Intro to N
+Received packet with sequence number 62 and first 64 bytes of data: o Networks: Tears Intro to Networks: Tears Intro to Networks: Te
+Received packet with sequence number 63 and first 64 bytes of data:  Tears Intro to Networks: Tears Intro to Networks: Tears Intro t
+Received packet with sequence number 64 and first 64 bytes of data: o to Networks: Tears Intro to Networks: Tears Intro to Networks:
+Received packet with sequence number 65 and first 64 bytes of data: ks: Tears Intro to Networks: Tears Intro to Networks: Tears Intr
+Received packet with sequence number 66 and first 64 bytes of data: ntro to Networks: Tears Intro to Networks: Tears Intro to Networ
+Received packet with sequence number 67 and first 64 bytes of data: works: Tears Intro to Networks: Tears Intro to Networks: Tears I
+Received packet with sequence number 68 and first 64 bytes of data: s Intro to Networks: Tears Intro to Networks: Tears Intro to Net
+Received packet with sequence number 69 and first 64 bytes of data: Networks: Tears Intro to Networks: Tears Intro to Networks: Tear
+Received packet with sequence number 70 and first 64 bytes of data: ears Intro to Networks: Tears Intro to Networks: Tears Intro to 
+Received packet with sequence number 71 and first 64 bytes of data: to Networks: Tears Intro to Networks: Tears Intro to Networks: T
+Received packet with sequence number 72 and first 64 bytes of data: : Tears Intro to Networks: Tears Intro to Networks: Tears Intro 
+Received packet with sequence number 73 and first 64 bytes of data: ro to Networks: Tears Intro to Networks: Tears Intro to Networks
+Received packet with sequence number 74 and first 64 bytes of data: rks: Tears Intro to Networks: Tears Intro to Networks: Tears Int
+Received packet with sequence number 75 and first 64 bytes of data: Intro to Networks: Tears Intro to Networks: Tears Intro to Netwo
+Received packet with sequence number 76 and first 64 bytes of data: tworks: Tears Intro to Networks: Tears Intro to Networks: Tears 
+Received packet with sequence number 77 and first 64 bytes of data: rs Intro to Networks: Tears Intro to Networks: Tears Intro to Ne
+Received packet with sequence number 78 and first 64 bytes of data:  Networks: Tears Intro to Networks: Tears Intro to Networks: Tea
+Received packet with sequence number 79 and first 64 bytes of data: Tears Intro to Networks: Tears Intro to Networks: Tears Intro to
+Received packet with sequence number 80 and first 64 bytes of data:  to Networks: Tears Intro to Networks: Tears Intro to Networks: 
+Received packet with sequence number 81 and first 64 bytes of data: s: Tears Intro to Networks: Tears Intro to Networks: Tears Intro
+Received packet with sequence number 82 and first 64 bytes of data: tro to Networks: Tears Intro to Networks: Tears Intro to Network
+Received packet with sequence number 83 and first 64 bytes of data: orks: Tears Intro to Networks: Tears Intro to Networks: Tears In
+Received packet with sequence number 84 and first 64 bytes of data:  Intro to Networks: Tears Intro to Networks: Tears Intro to Netw
+Received packet with sequence number 85 and first 64 bytes of data: etworks: Tears Intro to Networks: Tears Intro to Networks: Tears
+Received packet with sequence number 86 and first 64 bytes of data: ars Intro to Networks: Tears Intro to Networks: Tears Intro to N
+Received packet with sequence number 87 and first 64 bytes of data: o Networks: Tears Intro to Networks: Tears Intro to Networks: Te
+Received packet with sequence number 88 and first 64 bytes of data:  Tears Intro to Networks: Tears Intro to Networks: Tears Intro t
+Received packet with sequence number 89 and first 64 bytes of data: o to Networks: Tears Intro to Networks: Tears Intro to Networks:
+Received packet with sequence number 90 and first 64 bytes of data: ks: Tears Intro to Networks: Tears Intro to Networks: Tears Intr
+Received packet with sequence number 91 and first 64 bytes of data: ntro to Networks: Tears Intro to Networks: Tears Intro to Networ
+Received packet with sequence number 92 and first 64 bytes of data: works: Tears Intro to Networks: Tears Intro to Networks: Tears I
+Received packet with sequence number 93 and first 64 bytes of data: s Intro to Networks: Tears Intro to Networks: Tears Intro to Net
+Received packet with sequence number 94 and first 64 bytes of data: Networks: Tears Intro to Networks: Tears Intro to Networks: Tear
+Received packet with sequence number 95 and first 64 bytes of data: ears Intro to Networks: Tears Intro to Networks: Tears Intro to 
+Received packet with sequence number 96 and first 64 bytes of data: to Networks: Tears Intro to Networks: Tears Intro to Networks: T
+Received packet with sequence number 97 and first 64 bytes of data: : Tears Intro to Networks: Tears Intro to Networks: Tears Intro 
+Received packet with sequence number 98 and first 64 bytes of data: ro to Networks: Tears Intro to Networks: Tears Intro to Networks
+Received packet with sequence number 99 and first 64 bytes of data: rks: Tears Intro to Networks: Tears Intro to Networks: Tears Int
+Received packet with sequence number 100 and first 64 bytes of data: Intro to Networks: Tears Intro to Networks: Tears Intro to Netwo
+Received packet with sequence number 101 and first 64 bytes of data: tworks: Tears Intro to Networks: Tears Intro to Networks: Tears 
+Received packet with sequence number 102 and first 64 bytes of data: rs Intro to Networks: Tears Intro to Networks: Tears Intro to Ne
+Received packet with sequence number 103 and first 64 bytes of data:  Networks: Tears Intro to Networks: Tears Intro to Networks: Tea
+Received packet with sequence number 104 and first 64 bytes of data: Tears Intro to Networks: Tears Intro to Networks: Tears Intro to
+Received packet with sequence number 105 and first 64 bytes of data:  to Networks: Tears Intro to Networks: Tears Intro to Networks: 
+Received packet with sequence number 106 and first 64 bytes of data: s: Tears Intro to Networks: Tears Intro to Networks: Tears Intro
+Received packet with sequence number 107 and first 64 bytes of data: tro to Networks: Tears Intro to Networks: Tears Intro to Network
+Received packet with sequence number 108 and first 64 bytes of data: orks: Tears Intro to Networks: Tears Intro to Networks: Tears In
+Received packet with sequence number 109 and first 64 bytes of data:  Intro to Networks: Tears Intro to Networks: Tears Intro to Netw
+Received packet with sequence number 110 and first 64 bytes of data: etworks: Tears Intro to Networks: Tears Intro to Networks: Tears
+Received packet with sequence number 111 and first 64 bytes of data: ars Intro to Networks: Tears Intro to Networks: Tears Intro to N
+Received packet with sequence number 112 and first 64 bytes of data: o Networks: Tears Intro to Networks: Tears Intro to Networks: Te
+Received packet with sequence number 113 and first 64 bytes of data:  Tears Intro to Networks: Tears Intro to Networks: Tears Intro t
+Received packet with sequence number 114 and first 64 bytes of data: o to Networks: Tears Intro to Networks: Tears Intro to Networks:
+Received packet with sequence number 115 and first 64 bytes of data: ks: Tears Intro to Networks: Tears Intro to Networks: Tears Intr
+Received packet with sequence number 116 and first 64 bytes of data: ntro to Networks: Tears Intro to Networks: Tears Intro to Networ
+Received packet with sequence number 117 and first 64 bytes of data: works: Tears Intro to Networks: Tears Intro to Networks: Tears I
+Received packet with sequence number 118 and first 64 bytes of data: s Intro to Networks: Tears Intro to Networks: Tears Intro to Net
+Received packet with sequence number 119 and first 64 bytes of data: Networks: Tears Intro to Networks: Tears Intro to Networks: Tear
+Received packet with sequence number 120 and first 64 bytes of data: ears Intro to Networks: Tears Intro to Networks: Tears Intro to 
+Received packet with sequence number 121 and first 64 bytes of data: to Networks: Tears Intro to Networks: Tears Intro to Networks: T
+Received packet with sequence number 122 and first 64 bytes of data: : Tears Intro to Networks: Tears Intro to Networks: Tears Intro 
+Received packet with sequence number 123 and first 64 bytes of data: ro to Networks: Tears Intro to Networks: Tears Intro to Networks
+Received packet with sequence number 124 and first 64 bytes of data: rks: Tears Intro to Networks: Tears Intro to Networks: Tears Int
+Received packet with sequence number 125 and first 64 bytes of data: Intro to Networks: Tears Intro to Networks: Tears Intro to Netwo
+Received packet with sequence number 126 and first 64 bytes of data: tworks: Tears Intro to Networks: Tears Intro to Networks: Tears 
+Received packet with sequence number 127 and first 64 bytes of data: rs Intro to Networks: Tears Intro to Networks: Tears Intro to Ne
+Received packet with sequence number 128 and first 64 bytes of data:  Networks: Tears Intro to Networks: Tears Intro to Networks: Tea
+Received packet with sequence number 129 and first 64 bytes of data: Tears Intro to Networks: Tears Intro to Networks: Tears Intro to
+Received packet with sequence number 130 and first 64 bytes of data:  to Networks: Tears Intro to Networks: Tears Intro to Networks: 
+Received packet with sequence number 131 and first 64 bytes of data: s: Tears Intro to Networks: Tears Intro to Networks: Tears Intro
+Received packet with sequence number 132 and first 64 bytes of data: tro to Networks: Tears Intro to Networks: Tears Intro to Network
+Received packet with sequence number 133 and first 64 bytes of data: orks: Tears Intro to Networks: Tears Intro to Networks: Tears In
+Received packet with sequence number 134 and first 64 bytes of data:  Intro to Networks: Tears Intro to Networks: Tears Intro to Netw
+Received packet with sequence number 135 and first 64 bytes of data: etworks: Tears Intro to Networks: Tears Intro to Networks: Tears
+Received packet with sequence number 136 and first 64 bytes of data: ars Intro to Networks: Tears Intro to Networks: Tears Intro to N
+Received packet with sequence number 137 and first 64 bytes of data: o Networks: Tears Intro to Networks: Tears Intro to Networks: Te
+Received packet with sequence number 138 and first 64 bytes of data:  Tears Intro to Networks: Tears Intro to Networks: Tears Intro t
+Received packet with sequence number 139 and first 64 bytes of data: o to Networks: Tears Intro to Networks: Tears Intro to Networks:
+Received packet with sequence number 140 and first 64 bytes of data: ks: Tears Intro to Networks: Tears Intro to Networks: Tears Intr
+Received packet with sequence number 141 and first 64 bytes of data: ntro to Networks: Tears Intro to Networks: Tears Intro to Networ
+Received packet with sequence number 142 and first 64 bytes of data: works: Tears Intro to Networks: Tears Intro to Networks: Tears I
+Received packet with sequence number 143 and first 64 bytes of data: s Intro to Networks: Tears Intro to Networks: Tears Intro to Net
+Received packet with sequence number 144 and first 64 bytes of data: Networks: Tears Intro to Networks: Tears Intro to Networks: Tear
+Received packet with sequence number 145 and first 64 bytes of data: ears Intro to Networks: Tears Intro to Networks: Tears Intro to 
+Received packet with sequence number 146 and first 64 bytes of data: to Networks: Tears Intro to Networks: Tears Intro to Networks: T
+Received packet with sequence number 147 and first 64 bytes of data: : Tears Intro to Networks: Tears Intro to Networks: Tears Intro 
+Received packet with sequence number 148 and first 64 bytes of data: ro to Networks: Tears Intro to Networks: Tears Intro to Networks
+Received packet with sequence number 149 and first 64 bytes of data: rks: Tears Intro to Networks: Tears Intro to Networks: Tears Int
+Received packet with sequence number 150 and first 64 bytes of data: Intro to Networks: Tears Int
